@@ -47,8 +47,6 @@ These libraries are required to process data, compute similarity, and run the re
 #### Files
 
 * AI_HCI Project.py: Contains the implementation of the recommendation system.
-* books.csv: The dataset with book titles and authors used for generating recommendations (if not included, ensure the path to the dataset is updated).
+* books.csv: The dataset with book titles and authors used for generating recommendations.
 * requirements.txt: Lists the necessary Python libraries and dependencies for running the project.
 
-
-This structure ensures clear guidance on how to understand, set up, and use the recommendation system. The format avoids pronouns and maintains the requested structure.
